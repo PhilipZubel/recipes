@@ -2,4 +2,5 @@ This repository contains all the amazing recipes that I know of :smile::tropical
 
 Recipes:
 
+- [Chili Beef](chili_beef.md)
 - [Polish Dumplings](polish_dumplings.md)
