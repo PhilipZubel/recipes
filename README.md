@@ -8,3 +8,6 @@ Meals:
 Soups:
 - [Salmon Egg Noodle Soup](salmon_egg_noodle_soup.md)
 - [Pork Belly Ramen](pork_belly_ramen.md)
+
+Desserts:
+- [Carrot Halwa](carrot_halwa.md)
